@@ -1,0 +1,79 @@
+body{
+    background-image: url(./WhatsApp\ Image\ 2024-01-30\ at\ 18.55.40_4b5dab50.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+.div1{
+    background-color: #20b2aa;
+    border: 7px dotted  yellow;
+    border-radius: 30px;
+}
+.div2{
+    text-align: center;
+    background: lavender;
+    margin: 30px 40px 20px 60px;
+    border: 5px solid green;
+    border-radius: 20px;
+
+}
+p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h1i1{
+    color: green;
+    background-color: black;   
+    font-family: sans-serif;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 20px;
+    margin-top: 100px;
+    margin-left: 30px;
+    border: 2px green solid;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+.h1i2{
+    font-family: fantasy;
+
+
+}
+#para2{
+    color: peachpuff;
+    background-color: rgb(50, 200, 50);
+    margin: 20px;
+    padding: 10px 20px 30px 25px;
+}
+.para1{
+    color: peachpuff;
+    background-color: rgb(50, 200, 50);
+    margin: 50px;
+    border: 3px dashed pink;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+.list{
+    color: aliceblue;
+}
+img{
+    color: white;
+}
+
+table{
+    border: solid white 7px;
+}
+tr{
+    border: solid white 3px;
+}
+th{
+    border: solid white 3px;
+}
+td{
+    border: solid white 3px;
+}
